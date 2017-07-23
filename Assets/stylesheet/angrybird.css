@@ -1,0 +1,747 @@
+body{
+    margin: 0px;
+}
+
+.container{
+
+    margin: 0 auto;
+}
+
+.topbar ul li{
+    display: inline-block;
+
+}
+
+.topbar ul li .fa{
+    padding-right: 2px;
+    font-size: 20px;
+}
+
+.header{
+    background: linear-gradient(180deg,rgba(0,0,12,.9),rgba(0,0,12,.9) 50%,transparent);
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+
+}
+
+.topbar{
+    position: absolute;
+    left:100px;
+    top:30px;
+
+}
+
+.nav .fa{
+    color: white;
+    font-size: 28px;
+}
+
+.topbar li a{
+    font-family: Georgia;
+    /*font-style: italic;
+     font-weight: bold;
+*/
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    padding-top: 50px;
+    text-decoration: none;
+
+}
+.logo img {
+    height: 100px;
+    width: 115px;
+}
+.nav ul li{
+    display: inline-block;
+    float: right;
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: solid;
+    height: 50px;
+    width: 25px;
+}
+
+.nav{
+
+    position: absolute;
+    right: 46px;
+    top: 1px;
+    padding: 15px;
+
+
+}
+
+.bird{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    left: -17px;
+    top: 100px;
+}
+.bird img{
+    height: 100px;
+    width: 100px;
+    transition: 10s;
+
+}
+.bird img:hover {
+    transform: translate(1500px);
+}
+
+
+
+.div_1{
+    height: 800px;
+    background-image: url("../../Assets/images/AB_Evolution_Keyart_bg.jpg");
+    background-size: 100% 100%;
+    /*position: relative;*/
+    padding-top: 111px;
+    position: relative;
+
+}
+
+
+.div_1 .image img {
+    height: 75%;
+    width: 50%;
+    position: absolute;
+    top: 16%;
+    left: 24%;
+}
+
+.div_1 .seperator1 img{
+    position: absolute;
+    z-index: 100;
+    width: 1349px;
+    top: 89%;
+
+}
+
+.div_2{
+    height: 800px;
+    background-image: url("../../Assets/images/blast_bgr3.jpg");
+    background-size: 100% 100%;
+    /*position: relative;*/
+    padding-top: 111px;
+    position: relative;
+}
+
+.div_2 .image img {
+    height: 51%;
+    width: 45%;
+    position: absolute;
+    top: 14%;
+    left: 25%;
+
+}
+
+.div_2 .seperator2 img{
+    position: absolute;
+    z-index: 100;
+    width: 1349px;
+    top: 90%;
+
+}
+
+
+
+
+
+.div_3{
+    height: 600px;
+    background-image: url("../../Assets/images/01-ab2-background.jpg");
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.div_3 .image img {
+    height: 83%;
+    width: 45%;
+    position: absolute;
+    top: 16%;
+    left: 27%;
+}
+
+.div_3-logo img{
+    position: absolute;
+    height: 188px;
+    top: 53%;
+    z-index: 1;
+    left: 30%;
+
+
+}
+
+.div_3 .seperator3 img{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    top: 85%;
+
+}
+
+
+
+.div_4{
+    height: 600px;
+    background-image: url("../../Assets/images/friends_keyart_1920x720_CHRISTMAS_bg.jpg");
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.div_4 .image img {
+    height: 72%;
+    width: 38%;
+    position: absolute;
+    top: 18%;
+    left: 30%;
+
+}
+
+
+.div_4 .seperator4 img{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    top: 85%;
+
+}
+
+
+
+.div_5{
+    height: 600px;
+    background-image: url("../../Assets/images/blue-cartoon-wallpaper-18.jpg");
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.div_5 .image img {
+    height: 55%;
+    width: 29%;
+    position: absolute;
+    top: 21%;
+    left: 36%;
+
+}
+
+
+.div_5 .seperator5 img{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    top: 85%;
+
+}
+
+.div_7{
+    height: 600px;
+    background-image: url("../../Assets/images/cartoon-wallpapers-cloud-wallpaper-nature-pictures-weather-clouds-albums.jpg");
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.div_7 .image img {
+    height: 55%;
+    width: 45%;
+    position: absolute;
+    top: 27%;
+    left: 30%;
+
+
+}
+
+
+.div_7 .seperator7 img{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    top: 85%;
+
+}
+
+.levels{
+    background-color: black;
+    padding-top: 1px;
+}
+
+.levels h1{
+    color: crimson;
+    margin-top: 68px;
+}
+
+#div_6 img{
+
+    height: 250px;
+    width: 300px;
+}
+#div_6{
+
+    /*
+    padding-top: 205px;
+    */
+    padding-left: 25px;
+}
+
+
+
+.div_8 .seperator8-1 img{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    top: 0%;
+    height: 14px;
+
+}
+
+.div_8 .seperator8-2 img{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    top: 96%;
+    height: 14px;
+    transform: rotate(180deg);
+
+}
+
+.div_8 {
+    height: 300px;
+    background-image: url("../../Assets/images/Winter_Banner_1920x520.jpg");
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.footer{
+    background-color: black;
+    height: 235px;
+    padding-top: 1px;
+}
+
+.footer .text{
+    margin-left: 30%;
+    text-align: inherit;
+    margin-top: 5%;
+
+}
+
+.footer ul li{
+    display: inline-block;
+    color: white;
+    text-transform: uppercase;
+    padding: 15px;
+    font-size: 24px;
+    font-family: garamond;
+    letter-spacing: 2px;
+
+}
+
+.icon{
+    margin-left: 32%;
+    margin-top: 2%;
+
+}
+.icon ul li{
+
+    padding: 0px;
+}
+
+.icon a{
+
+    font-size: 60px;
+
+}
+
+.icon .fa-facebook-square {
+    color: #3b5998;
+}
+
+.icon .fa-twitter-square{
+    color: #76BCF1;
+}
+
+.icon .fa-youtube-square{
+    color: #bb0000;
+}
+
+.icon .fa-instagram{
+    color: #9A3CB6;
+}
+
+.icon .fa-tumblr-square{
+    color: #36465d;
+}
+.icon .fa-google-plus-square{
+    color: #d34836;
+}
+
+.icon .fa-vimeo-square{
+    color: #1AB7EA;
+}
+
+
+@media(max-width: 1200px) {
+    .topbar li a {
+        padding: 7px;
+    }
+
+    .nav ul li {
+        padding: 10px;
+    }
+
+    .div_1 img {
+        width: 100%;
+        left: -123px;
+    }
+
+    .div_2 img {
+        height: 865px;
+        width: 100%;
+        left: -171px;
+    }
+
+    .div_3 img {
+        height: 100%;
+        width: 100%;
+        left: -164px;
+
+    }
+
+    .div_4 img {
+        left: -255px;
+    }
+
+    .div_5 img {
+        left: 0px;
+        height: 700px;
+        width: 100%;
+    }
+
+    div_1 .seperator1 img {
+        left: 0%;
+    }
+
+    .div_2 .seperator2 img {
+        top: 92%;
+        height: 150px;
+        left: 0px;
+    }
+
+    .div_3 .seperator3 img {
+        top: 88%;
+        height: 150px;
+        left: 0px;
+    }
+
+    .div_3 img {
+        height: 188px;
+        width: 47%;
+        left: 25%;
+    }
+
+    .div_4 .seperator4 img {
+        top: 88%;
+        height: 150px;
+        left: 0px;
+    }
+
+    .div_5 .seperator5 img {
+        top: 88%;
+        height: 150px;
+        left: 0px;
+    }
+    .div_7 .seperator7 img {
+        top: 88%;
+        height: 150px;
+        left: 0px;
+    }
+
+    #div_6 {
+        padding-top: 205px;
+        padding-left: 120px;
+    }
+}
+
+
+@media(max-width: 992px) {
+    .topbar li a {
+        padding: 5px;
+    }
+
+    .nav ul li {
+        padding: 5px;
+    }
+
+    #div_6 img {
+        height: 250px;
+        width: 250px;
+
+    }
+
+    #div_6 {
+        padding-top: 20px;
+        padding-left: 90px;
+    }
+
+    .footer .text {
+        margin-left: 23%;
+    }
+
+    .icon {
+        margin-left: 27%;
+
+    }
+}
+
+
+
+
+
+
+@media(max-width: 767px) {
+    .topbar li a {
+        padding: 2px;
+    }
+
+    .nav ul li {
+        padding: 2px;
+    }
+
+    .topbar ul li:nth-child(3) {
+        display: none;
+    }
+
+    #div_6 {
+        padding-left: 108px;
+    }
+
+    .footer .text {
+        margin-left: 15%;
+
+    }
+    .icon {
+        margin-left: 20%;
+    }
+
+}
+
+
+
+
+
+
+@media(max-width: 320px) {
+
+    .logo img {
+        height: 70px;
+        width: 70px;
+    }
+
+    .topbar {
+        position: absolute;
+        left: 42px;
+        top: 12px;
+    }
+
+    .topbar li a {
+        font-size: 14px;
+        padding: 2px;
+
+    }
+
+    .topbar ul li:nth-child(4) {
+        display: none;
+    }
+
+    .nav ul li {
+        display: none;
+    }
+
+    .div_1 {
+        height: 400px;
+    }
+
+    .div_1 .image img {
+        height: 65%;
+        width: 82%;
+        position: absolute;
+        top: 19%;
+        left: 9%;
+    }
+
+    .div_1 .seperator1 img {
+        top: 81%;
+        height: 180px;
+        left: 0px;
+        width: 100%;
+    }
+
+    .div_2 {
+        height: 400px;
+    }
+
+    .div_2 .image img {
+        height: 65%;
+        width: 80%;
+        position: absolute;
+        top: 19%;
+        left: 9%;
+    }
+
+    .div_2 .seperator2 img {
+        top: 83%;
+        height: 180px;
+        left: 0px;
+        width: 100%;
+    }
+
+    .div_3 {
+        height: 400px;
+    }
+
+    .div_3 .image img {
+        height: 65%;
+        width: 80%;
+        position: absolute;
+        top: 19%;
+        left: 9%;
+    }
+
+    .div_3-logo  img {
+        height: 115px;
+        width: 75%;
+        left: 12%;
+        top: 49%;
+    }
+
+    .div_3 .seperator3 img {
+        top: 78%;
+        height: 180px;
+        left: 0px;
+        width: 100%;
+    }
+
+    .div_4 {
+        height: 400px;
+    }
+
+    .div_4 .image img {
+        height: 65%;
+        width: 80%;
+        position: absolute;
+        top: 19%;
+        left: 9%;
+    }
+
+    .div_4 .seperator4 img {
+        top: 78%;
+        height: 180px;
+        left: 0px;
+        width: 100%;
+    }
+
+    .div_5 {
+        height: 400px;
+    }
+
+    .div_5 .image img {
+        height: 65%;
+        width: 80%;
+        position: absolute;
+        top: 19%;
+        left: 9%;
+    }
+
+    .div_5 .seperator5 img {
+        top: 78%;
+        height: 180px;
+        left: 0px;
+        width: 100%;
+    }
+
+    .div_7 {
+        height: 400px;
+    }
+
+    .div_7 .image img {
+        height: 65%;
+        width: 80%;
+        position: absolute;
+        top: 19%;
+        left: 9%;
+    }
+
+    .div_7 .seperator7 img {
+        top: 78%;
+        height: 180px;
+        left: 0px;
+        width: 100%;
+    }
+
+
+    .levels h1 {
+        font-size: 36px;
+    }
+
+    #div_6 {
+        padding-left: 19px;
+        padding-top: 0px;
+    }
+
+    #div_6 img {
+        height: 120px;
+        width: 120px;
+    }
+
+
+    #div_6 img:hover{
+        transform: translate(200px);
+    }
+
+    .div_8 {
+        height: 206px;
+    }
+
+    .footer ul li {
+        padding: 6px;
+        font-size: 16px;
+    }
+
+    .footer .text {
+        margin-left: -10%;
+        margin-bottom: -7%;
+    }
+
+    .icon .fa{
+        font-size: 30px;
+    }
+
+    .icon ul li{
+        padding: 3px;
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+
+    .icon {
+        margin-left: -2%;
+        margin-top: 0%;
+    }
+
+    .footer {
+        background-color: black;
+        height: 130px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
