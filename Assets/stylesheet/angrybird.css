@@ -114,7 +114,7 @@ body{
 .div_1 .seperator1 img{
     position: absolute;
     z-index: 100;
-    width: 1349px;
+    width: 100%;
     top: 89%;
 
 }
@@ -140,7 +140,7 @@ body{
 .div_2 .seperator2 img{
     position: absolute;
     z-index: 100;
-    width: 1349px;
+    width: 100%;
     top: 90%;
 
 }
