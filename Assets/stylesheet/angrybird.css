@@ -508,6 +508,23 @@ body{
 
 
 
+@media(max-width: 984px) {
+    .div_1 .seperator1 img {
+        width: 1106px;
+        top: 91%;
+    }
+
+    .div_2 .seperator2 img {
+        width: 984px;
+    }
+
+
+
+
+}
+
+
+
 
 
 
