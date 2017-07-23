@@ -420,12 +420,14 @@ body{
 
     div_1 .seperator1 img {
         left: 0%;
+        width: 1323px;
     }
 
     .div_2 .seperator2 img {
         top: 92%;
         height: 150px;
         left: 0px;
+        width: 1198px;
     }
 
     .div_3 .seperator3 img {
@@ -492,6 +494,16 @@ body{
         margin-left: 27%;
 
     }
+    .div_1 .seperator1 img {
+        width: 1114px;
+    }
+
+    .div_2 .seperator2 img {
+        width: 990px;
+    }
+
+
+
 }
 
 
@@ -524,6 +536,14 @@ body{
         margin-left: 20%;
     }
 
+    .div_1 .seperator1 img {
+        width: 890px;
+        top: 93%;
+    }
+
+    .div_2 .seperator2 img {
+        width: 767px;
+    }
 }
 
 
