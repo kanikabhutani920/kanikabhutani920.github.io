@@ -507,19 +507,19 @@ body{
 }
 
 
-
 @media(max-width: 984px) {
-    .div_1 .seperator1 img {
-    width: 1107px;  
-     top: 91%;
-    }
 
-    .div_2 .seperator2 img {
-        width: 984px;
-    }
+.div_1 .seperator1 img {
+    width: 984px;
+    top: 93%;
+    left: 0px;
+}
 
 
-
+ .div_2 .seperator2 img {
+    width: 983px;
+    left: 0px;
+}
 
 }
 
